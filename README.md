@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @0x37-loop
+- 👀 I’m interested in Reverse Engineering
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me lxrdmata@gmail.com
